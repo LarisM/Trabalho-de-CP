@@ -1,0 +1,46 @@
+{
+  "post" : [
+       {
+          "userId": 1,
+          "price": 10,
+          "product": "Shampoo",
+          "description": "Todos os tipos de cabelo."
+      },
+      {
+          "userId": 2,
+          "price": 3,
+          "product": "Óleo de cozinha",
+          "description": "Soja, Girassol, Milho."
+      },
+      {
+          "userId": 3,
+          "price": 2,
+          "product": "Detergente",
+          "description": "Neutro, Limão."
+      },
+      {
+        "userId": 3,
+        "price": 2,
+        "product": "Detergente",
+        "description": "Neutro, Limão."
+    },
+    {
+      "userId": 4,
+      "price": 5,
+      "product": "Café",
+      "description": "Forte, Extraforte, Clássico."
+    },
+    {
+      "userId": 5,
+      "price": 1,
+      "product": "Vinagre",
+      "description": "Maçã, Uva."
+    },
+    {
+      "userId": 6,
+      "price": 4,
+      "product": "Leite em pó",
+      "description": "Integral, Instantâneo, Desnatado."
+    }    
+ ]
+}
