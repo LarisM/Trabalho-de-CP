@@ -2,9 +2,22 @@
     "post" : [
          {
             "userId": 1,
-            "id": 1,
-            "title": "primeiro post",
-            "body": "olá mundo\nesse trabalho vaime matar"
+            "price": 10,
+            "product": "Shampoo",
+            "description": "Todos os tipos de cabelo"
+        },
+        {
+            "userId": 2,
+            "price": 3,
+            "product": "Óleo de cozinha",
+            "description": "Soja\nGirassol\nMilho"
+        },
+        {
+            "userId": 3,
+            "price": 2,
+            "product": "Detergente",
+            "description": ""
         }
+        
    ]
 }
