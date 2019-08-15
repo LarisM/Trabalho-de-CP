@@ -1,0 +1,70 @@
+{
+  "post" : [
+      {
+          "userId": 1,
+          "price": 10,
+          "product": "Shampoo",
+          "description": "Todos os tipos de cabelo."
+      },
+      {
+          "userId": 2,
+          "price": 3,
+          "product": "Óleo de cozinha",
+          "description": "Girassol"
+      },
+      {
+        "userId": 3,
+        "price": 3,
+        "product": "Óleo de cozinha",
+        "description": "Soja"
+      },
+      {
+        "userId": 4,
+        "price": 3,
+        "product": "Óleo de cozinha",
+        "description": "Milho"
+      },
+      {
+          "userId": 5,
+          "price": 2,
+          "product": "Detergente",
+          "description": "Neutro"
+      },
+      {
+        "userId": 6,
+        "price": 2,
+        "product": "Detergente",
+        "description": "Limão"
+      },
+      {
+        "userId": 7,
+        "price": 5,
+        "product": "Café",
+        "description": "Forte"
+      },
+      {
+        "userId": 8,
+        "price": 5,
+        "product": "Café",
+        "description": "Extraforte"
+      },
+      {
+        "userId": 9,
+        "price": 5,
+        "product": "Café",
+        "description": "Clássico"
+      },
+      {
+        "userId": 10,
+        "price": 1,
+        "product": "Vinagre",
+        "description": "Maçã"
+      },
+      {
+        "userId": 11,
+        "price": 1,
+        "product": "Vinagre",
+        "description": "Uva"
+      }
+ ]
+}
