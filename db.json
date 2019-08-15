@@ -8,19 +8,19 @@
       },
       {
           "userId": 2,
-          "price": 3,
+          "price": 6,
           "product": "Óleo de cozinha",
           "description": "Girassol"
       },
       {
         "userId": 3,
-        "price": 3,
+        "price": 2,
         "product": "Óleo de cozinha",
         "description": "Soja"
       },
       {
         "userId": 4,
-        "price": 3,
+        "price": 4,
         "product": "Óleo de cozinha",
         "description": "Milho"
       },
@@ -32,7 +32,7 @@
       },
       {
         "userId": 6,
-        "price": 2,
+        "price": 1,
         "product": "Detergente",
         "description": "Limão"
       },
@@ -44,25 +44,25 @@
       },
       {
         "userId": 8,
-        "price": 5,
+        "price": 6,
         "product": "Café",
         "description": "Extraforte"
       },
       {
         "userId": 9,
-        "price": 5,
+        "price": 7,
         "product": "Café",
         "description": "Clássico"
       },
       {
         "userId": 10,
-        "price": 1,
+        "price": 12,
         "product": "Vinagre",
         "description": "Maçã"
       },
       {
         "userId": 11,
-        "price": 1,
+        "price": 10,
         "product": "Vinagre",
         "description": "Uva"
       }
